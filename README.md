@@ -2,9 +2,10 @@
 
 ## Neue Zeilen einfügen
 Eine weitere Zeile
-Eine zweite Zeile 
+Eine zweite Zeile
 
-This repository contains an RL environment based on open-source game Gameplay
+This repository contains an RL environment based on open-source game. Danke
+Gameplay
 Football. <br> It was created by the Google Brain team for research purposes.
 
 Useful links:
